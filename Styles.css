@@ -1,0 +1,16 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    padding-top: 50px;
+    padding-bottom: 70px;
+    background-color: darkgray;
+}
+
+#IMG {
+    height: 400px;
+    width: 300px;
+}
